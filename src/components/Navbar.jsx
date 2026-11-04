@@ -8,7 +8,7 @@ return (
 
 <ul>
 <li>
-<Link to="/">Inicio</Link>
+<Link to="/inicio">Inicio</Link>
 </li>
 
 <li>
